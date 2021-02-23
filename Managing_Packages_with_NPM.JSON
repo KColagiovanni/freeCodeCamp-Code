@@ -1,0 +1,11 @@
+{
+    "name": "APIs and Microservices",
+    "author": "Kevin",
+    "description": "freeCodeCamp.org APIs and Microservices challenges",
+    "keywords": ["freecodecamp", "JSON", "APIs"],
+    "licence": "Kevin",
+    "version": "0.0.1",
+    "dependencies": {
+        "moment": "2.10.2"
+    }
+}
